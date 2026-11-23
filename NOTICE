@@ -1,0 +1,13 @@
+This repository packages Rakazo for Railway.
+
+start.sh is derived from infra/railway/start.sh and sandbox-environment.mjs is copied
+from infra/railway/sandbox-environment.mjs in the Rakazo project:
+
+  https://github.com/elie222/rakazo
+  Tag v0.14.0
+  Copyright the Rakazo contributors
+  Licensed under the Apache License, Version 2.0
+
+Rakazo itself is licensed under the Apache License, Version 2.0. This repository contains
+deployment packaging and documentation only; it is not affiliated with or endorsed by the
+Rakazo project.

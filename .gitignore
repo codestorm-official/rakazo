@@ -1,0 +1,13 @@
+# Secrets and local environment files - never commit
+.env
+.env.*
+!.env.example
+
+# Deployment setup stays local - not part of the public template repo
+docs/RAILWAY_SETUP.md
+
+# Local editor / OS files
+.vscode/
+.idea/
+*.swp
+.DS_Store
